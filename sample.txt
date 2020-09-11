@@ -17,7 +17,7 @@
     "contents": [
       {
         "type": "text",
-        "text": "Software Developer",
+        "text": "iOS Software Developer",
         "weight": "bold",
         "size": "xl"
       },
@@ -53,7 +53,7 @@
           },
           {
             "type": "text",
-            "text": "4.0",
+            "text": "4.5",
             "size": "sm",
             "color": "#999999",
             "margin": "md",
@@ -96,7 +96,7 @@
               },
               {
                 "type": "text",
-                "text": "陳俊翔",
+                "text": "王恒振",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -118,7 +118,7 @@
               },
               {
                 "type": "text",
-                "text": "0927118261",
+                "text": "0982180979",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -140,7 +140,7 @@
               },
               {
                 "type": "text",
-                "text": "frank.chen@iisigroup.com",
+                "text": "hank.wang@iisigroup.com",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -186,7 +186,7 @@
         "action": {
           "type": "uri",
           "label": "加入LINE好友",
-          "uri": "https://line.me/ti/p/afB1aBlzG_"
+          "uri": "https://line.me/ti/p/DvVyFDkMYL"
         }
       },
       {
@@ -206,7 +206,7 @@
         "action": {
           "type": "uri",
           "label": "加入FaceBook",
-          "uri": "https://www.facebook.com/frank.chen.5055"
+          "uri": "https://www.facebook.com/hj.handstar"
         }
       },
       {
